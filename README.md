@@ -1,4 +1,7 @@
 # Forward Gravity Modelling
+## Application Interface
+
+![GUI](gui.png)
 
 A Python-based graphical user interface (GUI) application developed to demonstrate the basic concept of forward gravity modelling. The program computes a synthetic gravity anomaly based on user-defined density contrast and depth parameters while visualizing a simplified two-dimensional subsurface model.
 
