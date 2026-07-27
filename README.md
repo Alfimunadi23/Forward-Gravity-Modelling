@@ -45,6 +45,32 @@ The application generates two graphical outputs:
 - **Gravity Response** – Displays the synthetic gravity anomaly along the observation profile.
 - **2D Model** – Displays a simplified rectangular subsurface body at the specified depth.
 
+- ## Menjalankan Program
+
+1. Clone repository.
+
+```bash
+git clone https://github.com/Alfimunadi23/Forward-Gravity-Modelling.git
+```
+
+2. Masuk ke direktori proyek.
+
+```bash
+cd Forward-Gravity-Modelling
+```
+
+3. Instal dependensi.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Jalankan aplikasi.
+
+```bash
+python main.py
+```
+
 ## Author
 
 **Alif Munadi**  
