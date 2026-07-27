@@ -45,6 +45,6 @@ The application generates two graphical outputs:
 ## Author
 
 **Alif Munadi**  
-Department of Geophysics  
+Department of physics  
 Faculty of Mathematics and Natural Sciences  
 Universitas Syiah Kuala
